@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm currently a student learning about Data Science. 
 <!--
 **Saul-Gonzalez3/Saul-Gonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
