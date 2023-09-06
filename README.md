@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm currently a student at Codeup, where they teach students all the technical skills to become a data scientist. 
+
 I'm currently learning about SQL.
+
 ⚡ Fun fact: ... I'm a huge sports fan, particularly the Philadelphia Eagles, and I'd like to work for that organization one day!
 <!--
 **Saul-Gonzalez3/Saul-Gonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
