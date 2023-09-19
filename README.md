@@ -2,7 +2,7 @@
 
 I'm currently a student at Codeup, where they teach students all the technical skills to become a data scientist. 
 
-I'm currently learning about SQL.
+I'm currently learning about python.
 
 ⚡ Fun fact: ... I'm a huge sports fan, particularly the Philadelphia Eagles, and I'd like to work for that organization one day!
 <!--
