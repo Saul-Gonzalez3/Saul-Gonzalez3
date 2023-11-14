@@ -2,9 +2,11 @@
 
 I'm currently a student at Codeup, where they teach students all the technical skills to become a data scientist. 
 
-I'm currently learning about python.
+I'm currently learning about machine learning models, specifically regression models such as Ordinary Least Squares, LASSO + LARS, Polynomial Regression
+and Generalized Linear Model
+using Tweedie Regressor.
 
-⚡ Fun fact: ... I'm a huge sports fan, particularly the Philadelphia Eagles, and I'd like to work for that organization one day!
+⚡ Fun fact: ... I'm a huge sports fan, particularly the Philadelphia Eagles.
 <!--
 **Saul-Gonzalez3/Saul-Gonzalez3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
