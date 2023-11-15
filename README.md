@@ -2,7 +2,7 @@
 
 I'm currently a student at Codeup, where they teach students all the technical skills to become a data scientist. 
 
-I'm currently learning about Unsupervised Machine Learning, specifically Clustering, , common clustering algorithms, Anomoly Detection, & NLP.
+I'm currently learning about Unsupervised Machine Learning, specifically Clustering, , common clustering algorithms, Anomaly Detection, & NLP.
 
 ⚡ Fun fact: ... I'm a huge sports fan, particularly the Philadelphia Eagles.
 <!--
